@@ -1,0 +1,47 @@
+
+/* only add a period when defining a class  and if you are doing 
+and Id add hashtags  */
+body{
+
+background-color:#B6AAAA;
+
+}
+button{
+    
+    background-color:rgba(239, 57, 143, 0.68);
+    color: white;
+    flood-color:Blue;
+    position: relative;
+    vertical-align: middle;
+    float: center;
+    left: 30rem;
+    border-radius: 50px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer; 
+
+}
+
+
+.square{
+    
+        width: 3em;
+        height: 3em;
+        color: white;
+        background-color: black;
+        float: left;
+        margin: 0.2em;
+        font-size: 5em;
+        text-align: center;
+        line-height: 3em;
+        vertical-align: middle;
+    }
+
+  
+
+
+
+
